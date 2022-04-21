@@ -1,0 +1,26 @@
+{
+  "name": "firstrepo",
+  "version": "1.0.0",
+  "description": "First commit",
+  "main": "temp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sacredneobigithub2/firstRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sacredneobigithub2/firstRepo/issues"
+  },
+  "homepage": "https://github.com/sacredneobigithub2/firstRepo#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "husky": "^7.0.4"
+  }
+}
